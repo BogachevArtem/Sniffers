@@ -19,4 +19,4 @@
 
 <li><a href="https://drive.google.com/file/d/1Qvy00aerm95UmpI6bVIPNAlb_nyA5Kp6/view?usp=sharing" target="_blank">При обращении к demowebshop открывается картинка</a></li>
 
-<li><a href="https://drive.google.com/file/d/1TeHxf3RkeJ5eBZ9JUo_PGc8yZRaks-Wm/view?usp=sharing" target="_blank">Приложить скриншот перехваченного HTTPs-запроса. В header user-agent должна быть информация о вашем устройстве</a></li>
+<li><a href="https://drive.google.com/file/d/1TeHxf3RkeJ5eBZ9JUo_PGc8yZRaks-Wm/view?usp=sharing" target="_blank">Приложить скриншот перехваченного HTTPs-запроса. В user-agent должна быть информация об устройстве</a></li>
